@@ -47,14 +47,10 @@
 
 
 ## 🌐 Socials:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-  <!-- LinkedIn -->
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/](https://www.linkedin.com/in/zain-al-abidin-773a98243/))
-  <!-- Twitter -->
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xcr_zain)
-  <!-- Stack Overflow -->
-  [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23368530/zain-al-abidin)
-  
-  [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/zain2983)
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/zain-al-abidin-773a98243/]))
 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xcr_zain)
+
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23368530/zain-al-abidin)
+
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/zain2983)
