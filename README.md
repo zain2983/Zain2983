@@ -1,15 +1,60 @@
 # 💫 About Me:
-🌱 **I’m currently learning:**  <br>Node.js<br><br>
-💬 **Ask me about:**  <br>JavaScript, React, Node.js, Python and any general software development questions.<br><br>
-⚡ **Fun fact:**  <br>I love playing games
+
+👋 Hi, I'm Zain, an AI Engineer specializing in **Generative AI** and full stack development. I love building scalable applications and exploring AI integration in web technologies.
+
+🚀 Currently working on projects that integrate large language models and **generative AI** into scalable web applications, creating personalized user experiences.
+
+🤖 Experienced in **developing** and deploying machine learning models, with a focus on **natural language processing**.
 
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+  [![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+  [![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Express](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  [![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+  [![NoSQL](https://img.shields.io/badge/-NoSQL-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/nosql-explained)
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Material-UI](https://img.shields.io/badge/-Material_UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
+  [![Jupyter](https://img.shields.io/badge/-Jupyter-ff6f00?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+  [![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+  [![Numpy](https://img.shields.io/badge/-Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+  [![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+  [![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+  [![Keras](https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+  [![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
+  [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+  [![LangChain](https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.org/)
+  [![GPT](https://img.shields.io/badge/-GPT-lightgrey?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+  [![llama.cpp](https://img.shields.io/badge/-llama.cpp-orange?style=for-the-badge&logo=llama&logoColor=white)](https://github.com/ggerganov/llama.cpp)
+  [![Ollama](https://img.shields.io/badge/-Ollama-purple?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  [![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+</div>
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-al-abidin-773a98243/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23368530/zain-al-abidin) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/zain2983) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+  <!-- LinkedIn -->
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/](https://www.linkedin.com/in/zain-al-abidin-773a98243/))
+  <!-- Twitter -->
+  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xcr_zain)
+  <!-- Stack Overflow -->
+  [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23368530/zain-al-abidin)
+  
+  [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/zain2983)
+</div>
+
