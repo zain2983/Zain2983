@@ -38,6 +38,8 @@
   [![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
   [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
   [![LangChain](https://img.shields.io/badge/-LangChain-blue?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.org/)
+  [![DSPy](https://img.shields.io/badge/-DSPy-blue?style=for-the-badge&logo=dsp&logoColor=white)](https://github.com/stanfordnlp/dspy)
+  [![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=llama&logoColor=white)](https://www.llamaindex.ai/)
   [![GPT](https://img.shields.io/badge/-GPT-lightgrey?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
   [![llama.cpp](https://img.shields.io/badge/-llama.cpp-orange?style=for-the-badge&logo=llama&logoColor=white)](https://github.com/ggerganov/llama.cpp)
   [![Ollama](https://img.shields.io/badge/-Ollama-purple?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
