@@ -103,7 +103,7 @@
         <img src="https://img.shields.io/badge/-Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
         <img src="https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
       </div>
-    </td>
+<!--     </td>
     <td valign="top" width="33%">
       <h3 align="center">Development Tools</h3>
       <div align="center">
@@ -112,11 +112,11 @@
         <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
         <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       </div>
-    </td>
-  </tr>
+    </td> -->
 
-  <tr>
-    <td valign="top" width="100%">
+
+
+  <td valign="top" width="100%">
       <h3 align="center">Generative AI Frameworks & Related Technologies</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -132,8 +132,8 @@
         <img src="https://img.shields.io/badge/llama.cpp-FF4500?style=for-the-badge&logo=llama&logoColor=white" alt="llama.cpp" />
       </div>
     </td>
-  </tr>
-  
+   </tr>
+    
 </table>
 
 
