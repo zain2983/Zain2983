@@ -8,6 +8,7 @@
 
 ## 💻 Skills:
 
+<!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   
   [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -47,7 +48,7 @@
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 </div>
 
-
+-->
 
 
 <table>
