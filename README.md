@@ -77,6 +77,7 @@
       <h3 align="center">Databases & Cloud</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Chroma-FF5733?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma" />
         <img src="https://img.shields.io/badge/-NoSQL-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
         <img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
       </div>
