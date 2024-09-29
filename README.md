@@ -114,7 +114,30 @@
       </div>
     </td>
   </tr>
+
+  <tr>
+    <td valign="top" width="100%">
+      <h3 align="center">Generative AI Frameworks & Related Technologies</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/Transformers-FFDA1E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+        <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LLamaIndex-008080?style=for-the-badge&logo=llama&logoColor=white" alt="LLamaIndex" />
+        <img src="https://img.shields.io/badge/Ollama-800080?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/GPT-FFB6C1?style=for-the-badge&logo=openai&logoColor=black" alt="GPT" />
+        <img src="https://img.shields.io/badge/DSPy-1E90FF?style=for-the-badge&logo=dspy&logoColor=white" alt="DSPy" />
+        <img src="https://img.shields.io/badge/llama.cpp-FF4500?style=for-the-badge&logo=llama&logoColor=white" alt="llama.cpp" />
+      </div>
+    </td>
+  </tr>
+  
 </table>
+
+
+
 
 
 
