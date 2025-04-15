@@ -1,10 +1,16 @@
 # 💫 About Me:
 
+👋 Hey, I’m Zain. This is where I’m supposed to say I’m the best coder alive—but truth is, I still ask ChatGPT how to center a div. I mostly vibe, occasionally code, and somehow things get built. Make of that whatever you will.
+
+
+<!--
+
 👋 Hi, I'm Zain, an AI Engineer specializing in **Generative AI** and full stack development. I love building scalable applications and exploring AI integration in web technologies.
 
 🚀 Currently working on projects that integrate large language models and **generative AI** into scalable web applications, creating personalized user experiences.
 
 🤖 Experienced in **developing** and deploying machine learning models, with a focus on **natural language processing**.
+-->
 
 ## 💻 Skills:
 
@@ -49,92 +55,73 @@
 </div>
 
 -->
-
-
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Programming Languages</h3>
+      <h4 align="center">Programming Languages</h4>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Web Development</h3>
+      <h4 align="center">Web Development</h4>
       <div align="center">
-        <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/-Material_UI-blue?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
+        <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/-Material_UI-blue?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI" />
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Databases & Cloud</h3>
+      <h4 align="center">Databases & Cloud</h4>
       <div align="center">
-        <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Chroma-FF5733?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma" />
-        <img src="https://img.shields.io/badge/-NoSQL-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-        <img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Chroma-FF5733?style=flat-square&logo=chroma&logoColor=white" alt="Chroma" />
+        <img src="https://img.shields.io/badge/-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
+        <img src="https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
       </div>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">AI & Machine Learning</h3>
+      <h4 align="center">AI & Machine Learning</h4>
       <div align="center">
-        <img src="https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/-PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-        <img src="https://img.shields.io/badge/-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
-        <img src="https://img.shields.io/badge/-Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-        <img src="https://img.shields.io/badge/-LlamaIndex-green?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+        <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
+        <img src="https://img.shields.io/badge/-Hugging_Face-yellow?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/-LlamaIndex-green?style=flat-square&logo=llama&logoColor=white" alt="LlamaIndex" />
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Data Science</h3>
+      <h4 align="center">Data Science</h4>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/-Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-        <img src="https://img.shields.io/badge/-Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-        <img src="https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-      </div>
-<!--     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Development Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-Jupyter-ff6f00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-        <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </div>
-    </td> -->
-
-
-
-  <td valign="top" width="100%">
-      <h3 align="center">Generative AI Frameworks</h3>
-      <div align="center">
-<!--         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> -->
-        <img src="https://img.shields.io/badge/Transformers-FFDA1E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-        <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/LLamaIndex-008080?style=for-the-badge&logo=llama&logoColor=white" alt="LLamaIndex" />
-        <img src="https://img.shields.io/badge/Ollama-800080?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-        <img src="https://img.shields.io/badge/GPT-FFB6C1?style=for-the-badge&logo=openai&logoColor=black" alt="GPT" />
-        <img src="https://img.shields.io/badge/DSPy-1E90FF?style=for-the-badge&logo=dspy&logoColor=white" alt="DSPy" />
-        <img src="https://img.shields.io/badge/llama.cpp-FF4500?style=for-the-badge&logo=llama&logoColor=white" alt="llama.cpp" />
+        <img src="https://img.shields.io/badge/-Pandas-lightgrey?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />
+        <img src="https://img.shields.io/badge/-Matplotlib-lightgrey?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn" />
       </div>
     </td>
-   </tr>
-    
+    <td valign="top" width="33%">
+      <h4 align="center">Generative AI Frameworks</h4>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Transformers-FFDA1E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+        <img src="https://img.shields.io/badge/LangChain-0052CC?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LLamaIndex-008080?style=flat-square&logo=llama&logoColor=white" alt="LLamaIndex" />
+        <img src="https://img.shields.io/badge/Ollama-800080?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/GPT-FFB6C1?style=flat-square&logo=openai&logoColor=black" alt="GPT" />
+        <img src="https://img.shields.io/badge/DSPy-1E90FF?style=flat-square&logo=dspy&logoColor=white" alt="DSPy" />
+        <img src="https://img.shields.io/badge/llama.cpp-FF4500?style=flat-square&logo=llama&logoColor=white" alt="llama.cpp" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 
